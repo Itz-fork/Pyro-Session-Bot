@@ -1,3 +1,5 @@
+## [Source Code](https://github.com/AbirHasan2005/TG-String-Session)
+
 # TG-String-Session
 Generate Pyrogram String Session Using this bot.
 
@@ -20,7 +22,7 @@ Generate Pyrogram String Session Using this bot.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hirusha-H/Pyro-Session-Bot/tree/main)
 
 ## Support Group:
-<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Nexa_bots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 #### Coded By
 - [Krishna Singhal](https://github.com/Krishna-Singhal)
